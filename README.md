@@ -6,7 +6,7 @@ The work I'm proudest of is **My Values AI**, a two-agent NLP system I built end
 
 These days I'm building **Bandframe**, a full-stack mobile app for musicians.
 
-*(Code for My Values AI and the QGIS chatbot is private — happy to walk through either one.)*
+*(Code for My Values AI, the QGIS chatbot and BandFrame is private — happy to walk through either one.)*
 
 ### What I work with
 Python · PyTorch · HuggingFace · RAG · React Native / TypeScript · FastAPI · AWS · Docker
