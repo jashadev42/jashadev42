@@ -11,5 +11,4 @@ These days I'm building **Bandframe**, a full-stack mobile app for musicians.
 ### What I work with
 Python · PyTorch · HuggingFace · RAG · React Native / TypeScript · FastAPI · AWS · Docker
 
-### Say hi
 [LinkedIn](https://www.linkedin.com/in/jasha-phillips-22a411275/) · jasha.k.phillips@gmail.com
